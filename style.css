@@ -36,6 +36,11 @@
     font-weight: 500;
     font-size: 18px;
     margin-left: 15px;
+    transition: color 0.3s ease;
+}
+navbar .menu li a:hover {
+    color: cyan;
+
 }
 .Home {
     display:flex;
