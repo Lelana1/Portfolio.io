@@ -15,6 +15,7 @@
     padding: 30px 0px;
     background: cadetblue;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    transition: all 0.3s ease;
 }
 .navbar .max-width {
     display: flex;
@@ -39,7 +40,7 @@
     transition: color 0.3s ease;
 }
 navbar .menu li a:hover {
-    color: cyan;
+    color: rgb(237, 247, 250);
 
 }
 .Home {
